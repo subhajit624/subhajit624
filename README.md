@@ -9,7 +9,7 @@
 <!--     height=  →  Banner height in px                          -->
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050014,55:0d0630,80:1e0a5c,100:4f0ca8&height=280&section=header&text=Subhajit%20Ghosh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20DSA%20Enthusiast&descSize=19&descAlignY=64&descAlign=50&descColor=c4b5fd"/>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Subhajit+Ghosh;AI+%26+Web+Developer;DSA+Enthusiast"/> </p>
 
 <!-- ============================================================ -->
 <!--  TYPING ANIMATION  ✅                                        -->
