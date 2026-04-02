@@ -1,20 +1,197 @@
-# 💫 About Me:
-🎓 B.Tech IT student (3rd Year)<br>🔧 Tech Stack: MERN ,Langchain, LangGraph<br>🤖 Exploring Generative AI & Agentic AI <br>📚 Practicing Data Structures & Algorithms<br>🛠️ Building real-world projects<br>🎯 Goal: Become a skilled Software Engineer
+<div align="center">
 
+<!-- ============================================================ -->
+<!--  HERO  ✅  "waving" type — reliable, no broken render        -->
+<!--  ✏️  TO CUSTOMIZE:                                           -->
+<!--     text=    →  Your name (use %20 for spaces)               -->
+<!--     desc=    →  Your tagline (use %20 for spaces, %7C for |) -->
+<!--     color=   →  Gradient stops (hex without #)               -->
+<!--     height=  →  Banner height in px                          -->
+<!-- ============================================================ -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-ghosh-054a80290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhajitghosh55667788@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050014,55:0d0630,80:1e0a5c,100:4f0ca8&height=280&section=header&text=Subhajit%20Ghosh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Agentic%20Systems%20%7C%20DSA%20Enthusiast&descSize=19&descAlignY=64&descAlign=50&descColor=c4b5fd"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-<!-- GitHub Stats -->
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhajit624&theme=github_dark&hide_border=false)
+<!-- ============================================================ -->
+<!--  TYPING ANIMATION  ✅                                        -->
+<!--                                                              -->
+<!--  ✏️  YOUR ROTATING LINES — change anything inside lines=    -->
+<!--  Rules: separate each line with ;                            -->
+<!--         space = +   |  = %7C   & = %26                       -->
+<!--                                                              -->
+<!--  LINE 1: 「 Turning caffeine into code since 2022 」☕       -->
+<!--  LINE 2: 「 MERN | LangChain | LangGraph | FastAPI 」⚡      -->
+<!--  LINE 3: 「 Building Agentic AI that actually works 」🤖     -->
+<!--  LINE 4: 「 3rd Year B.Tech IT → SWE Dream Role 」🎯        -->
+<!--  LINE 5: 「 Open to Internships & Collabs 」🤝               -->
+<!--                                                              -->
+<!--  WANT TO ADD A LINE? paste after the last ; like:            -->
+<!--  ...%E3%80%8D+%F0%9F%A4%9D;Your+New+Line+Here               -->
+<!-- ============================================================ -->
 
-<!-- Streak Stats (yours already works — nirzak-streak-stats) -->
-![](https://nirzak-streak-stats.vercel.app/?user=subhajit624&theme=github_dark&hide_border=false)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=860&height=52&lines=%E3%80%8C+Turning+caffeine+into+code+since+2023+%E3%80%8D+%E2%98%95;%E3%80%8C+MERN+%7C+LangChain+%7C+LangGraph+%E3%80%8D+%E2%9A%A1;%E3%80%8C+Building+Agentic+work+flows+%E3%80%8D+%F0%9F%A4%96;%E3%80%8C+3rd+Year+B.Tech+IT+%E3%80%8D+%F0%9F%8E%AF;%E3%80%8C+Open+to+Internships+%26+Collabs+%E3%80%8D+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<!-- Top Languages -->
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhajit624&theme=github_dark&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ============================================================ -->
+<!--  SOCIAL BADGES  ✏️  update the URLs in () with your links   -->
+<!-- ============================================================ -->
+
+[![LinkedIn](https://img.shields.io/badge/━━%20LinkedIn%20━━-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-ghosh-054a80290)&nbsp;
+[![Gmail](https://img.shields.io/badge/━━%20Gmail%20━━-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajitghosh55667788@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/━━%20GitHub%20━━-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhajit624)&nbsp;
+
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:ec4899&height=4" width="100%"/>
+<br/>
+
+<!-- ============================================================ -->
+<!--  ABOUT ME — 3-column: GIFs | code | GIFs                     -->
+<!-- ============================================================ -->
+
+<table align="center" width="94%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+
+<td width="18%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="148" alt="AI Brain"/>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="148" alt="Matrix"/>
+</td>
+
+<td width="64%" valign="middle">
+
+<!-- ============================================================ -->
+<!--  ✏️  ABOUT ME CODE — edit the values on the right of each = -->
+<!-- ============================================================ -->
+
+```python
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#   About Me
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+name      =  "Subhajit Ghosh"         
+degree    =  "B.Tech IT · 3rd Year 🎓"  
+location  =  "Singur, West Bengal"    
+
+stack     =  [ "React", "Node.js",      
+               "MongoDB", "LangChain",
+               "LangGraph" ]
+
+status    =  "🟢 Open to Work" 
+```
+
+</td>
+
+<td width="18%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="148" alt="Coding"/>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/ZVik7pIojeS2GBMSvz/giphy.gif" width="148" alt="Working"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:7c3aed,100:06b6d4&height=4" width="100%"/>
+<br/><br/>
+
+<!-- ============================================================ -->
+<!--  TECH ARSENAL  ✅ skillicons.dev — Cloudflare CDN            -->
+<!--                                                              -->
+<!--  ✏️  TO ADD / REMOVE ICONS:                                  -->
+<!--  Edit the letters after  i=  in each img src below.          -->
+<!--  Full icon list → https://skillicons.dev                     -->
+<!--                                                              -->
+<!--  LANGUAGES  → c, java, js, ts, python, go, rust, cpp        -->
+<!--  FRONTEND   → html, css, react, tailwind, vite, nextjs       -->
+<!--  BACKEND    → nodejs, express, fastapi, flask, spring         -->
+<!--  DATABASE   → mongodb, mysql, postgres, redis, firebase       -->
+<!--  AI / ML    → pytorch, tensorflow, sklearn                    -->
+<!--  TOOLS      → git, github, docker, linux, vscode, figma       -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050014,100:0d0630&height=56&text=%E2%9A%A1+TECH+ARSENAL+%E2%9A%A1&fontSize=26&fontColor=c4b5fd&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<table border="0" width="92%">
+<tr>
+<td align="center" width="25%">
+
+**`// LANGUAGES`**<br/>
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,python&perline=5&theme=dark"/>
+
+</td>
+<td align="center" width="25%">
+
+**`// FRONTEND`**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&perline=5&theme=dark"/>
+
+</td>
+<td align="center" width="25%">
+
+**`// BACKEND & DB`**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&perline=5&theme=dark"/>
+
+</td>
+<td align="center" width="25%">
+
+**`// AI & TOOLS`**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,vscode&perline=5&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<!-- ============================================================ -->
+<!--  CONTRIBUTION GRAPH  ✅                                      -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050014,100:0d0630&height=56&text=%F0%9F%93%88+CONTRIBUTION+GRAPH&fontSize=26&fontColor=c4b5fd&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajit624&bg_color=050014&color=c4b5fd&line=7c3aed&point=06b6d4&area=true&area_color=1e0a5c&hide_border=true&custom_title=Subhajit%27s%20GitHub%20Activity&title_color=c4b5fd&radius=6" width="96%"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ============================================================ -->
+<!--  CONNECT + FOOTER                                            -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:7c3aed,100:ec4899&height=4" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  ✏️  FOOTER TYPING LINES — same rules as top typing          -->
+<!--  LINE 1: Got an idea? Lets build it together! 💬             -->
+<!--  LINE 2: Drop a message — I always reply! 📩                 -->
+<!--  LINE 3: If you like my work, leave a star! 🌟               -->
+<!-- ============================================================ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=40&lines=Got+an+idea%3F+Lets+build+it+together!+%F0%9F%92%AC;Drop+a+message+%E2%80%94+I+always+reply!+%F0%9F%93%A9;If+you+like+my+work%2C+leave+a+star!+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/━━━━%20Connect%20on%20LinkedIn%20━━━━-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-ghosh-054a80290)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/━━━━%20Drop%20Me%20a%20Mail%20━━━━-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajitghosh55667788@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,30:0d0630,60:1e0a5c,80:4f0ca8,100:7c3aed&height=130&section=footer" width="100%"/>
+
+</div>
